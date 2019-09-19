@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCarchTest</string>
+    <string name="btn_crash_txt">点击奔溃</string>
+</resources>

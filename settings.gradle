@@ -1,0 +1,2 @@
+include ':app', ':zcrash'
+rootProject.name='MyCarchTest'
